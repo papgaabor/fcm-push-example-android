@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "7885082280",
+    "firebase_url": "https://fcm-example-eeb21.firebaseio.com",
+    "project_id": "fcm-example-eeb21",
+    "storage_bucket": "fcm-example-eeb21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7885082280:android:09c773d1c555d14c",
+        "android_client_info": {
+          "package_name": "com.wanari.fcmexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7885082280-l1cujrtmu3pcfcmbaq949im9moi5dn99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjlJ4z7x-BIBGDKZV1RKryUj4GVhxtSvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
